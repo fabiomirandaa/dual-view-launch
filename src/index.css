@@ -39,10 +39,10 @@ All colors MUST be HSL.
     --radius: 0.75rem;
 
     /* Gaming-specific design tokens */
-    --gaming-pink: 332 84% 56%;
-    --gaming-pink-dark: 332 84% 46%;
-    --gaming-dark: 0 0% 3%;
-    --gaming-dark-light: 0 0% 8%;
+    --gaming-pink: 350 88% 58%;
+    --gaming-pink-dark: 350 88% 48%;
+    --gaming-dark: 0 0% 6%;
+    --gaming-dark-light: 0 0% 10%;
     --gaming-text: 0 0% 95%;
     --gaming-text-muted: 0 0% 70%;
 

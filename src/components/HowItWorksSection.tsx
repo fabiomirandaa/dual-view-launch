@@ -48,7 +48,7 @@ export const HowItWorksSection = () => {
 
         <div className="text-center">
           <p className="text-sm text-gaming-text-muted max-w-2xl mx-auto">
-            <span className="text-gaming-pink">Política sobre 18 clientes por semana e uma vida larga semanal</span> - VIP5 até VIP8. Dentro mais você divulga, mais você ganha!
+            <span className="text-gaming-pink">Política sobre 10 clientes por semana e uma vida larga semanal</span> - VIP5 até VIP8. Quanto mais você divulga, mais você ganha!
           </p>
         </div>
       </div>

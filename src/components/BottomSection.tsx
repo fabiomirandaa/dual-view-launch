@@ -22,7 +22,7 @@ export const BottomSection = () => {
               Cadastre-se agora, receba seu link exclusivo e comece a lucrar hoje mesmo!
             </p>
 
-            <Button variant="gaming" size="lg" className="text-lg px-8 py-3">
+            <Button className="bg-gaming-pink hover:bg-gaming-pink-dark text-white font-semibold px-8 py-4 text-lg rounded-full">
               Seja um afiliado
             </Button>
           </div>

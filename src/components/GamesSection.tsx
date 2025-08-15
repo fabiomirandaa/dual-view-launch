@@ -59,8 +59,8 @@ export const GamesSection = () => {
         </div>
 
         <div className="text-center mb-12">
-          <Button variant="gaming" size="lg" className="text-lg px-8 py-3">
-            Sou um afiliado
+          <Button className="bg-gaming-pink hover:bg-gaming-pink-dark text-white font-semibold px-8 py-4 text-lg rounded-full">
+            Seja um afiliado
           </Button>
         </div>
 
